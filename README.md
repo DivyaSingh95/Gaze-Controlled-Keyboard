@@ -1,14 +1,10 @@
 # Gaze_Controlled_Keyboard
 
 ## Table of Content:
-* [Overview](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Overview)
-* [Motivation](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Motivation)
-* [Core-Logic](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Core-Logic)
-* [Inspiration From](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Inspiration-From)
 
 
 ## Overview 
-The “Gaze controlled keyboard” is a project where we will control the keyboard through our eyes using Python with Opencv, completely from scratch.The goal of such app is to write without using the hands. 
+The “Gaze controlled keyboard” is a project where we will control the keyboard through our eyes using Python with Opencv, completely from scratch.The goal of  is to write without using the hands. 
 
 ## Motivation 
 To implement the technology for a better tomorrow is the motivation for this project.
@@ -85,7 +81,7 @@ Basically we are lighting up a letter for 10 frames, and after that we light up 
 
 **Final result**
 
-![Screenshot (206)](https://user-images.githubusercontent.com/44902363/85778920-b32bbf00-b740-11ea-973d-e5fdc864ba21.png)
+![Screenshot (206)](C:\Users\user\Downloads\i.png)
 
 Thus able to type hello through my eye motion.
 
@@ -98,9 +94,8 @@ Thus able to type hello through my eye motion.
 
 ### Author
 
-#### Shubhangi Dabral (ShubhangiDabral13)
-<a href="https://twitter.com/Shubhi_Dabral"><img 
-src="https://news.wjct.org/sites/wjct/files/styles/medium/public/201407/v65oai7fxn47qv9nectx.png" align="left" height="50" width="50" ></a>
-<a href="https://www.linkedin.com/in/shubhangi-dabral-b79705145/"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" align="left" height="60" width="60" ></a>
+#### Divya Singh 
+
+<a href="https://www.linkedin.com/in/http://www.linkedin.com/in/divya-singh-1603/"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" align="left" height="60" width="60" ></a>
 
 
