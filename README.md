@@ -81,14 +81,11 @@ Basically we are lighting up a letter for 10 frames, and after that we light up 
 
 **Final result**
 
-![Screenshot (206)](C:\Users\user\Downloads\i.png)
+![Screenshot (206)](https://github.com/DivyaSingh95/Gaze-Controlled-Keyboard/blob/main/picture/i.png)
 
 Thus able to type hello through my eye motion.
 
 
-## Inspiration From
-
-* Pyscource [blogs](https://pysource.com/category/tutorials/gaze-controlled-keyboard/) by Sergio Canu
 
 
 
