@@ -93,6 +93,6 @@ Thus able to type hello through my eye motion.
 
 #### Divya Singh 
 
-<a href="https://www.linkedin.com/in/http://www.linkedin.com/in/divya-singh-1603/"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" align="left" height="60" width="60" ></a>
+<a href="https://www.linkedin.com/in/divya-singh-1603/"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" align="left" height="60" width="60" ></a>
 
 
