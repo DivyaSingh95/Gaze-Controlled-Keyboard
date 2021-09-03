@@ -8,10 +8,7 @@ The “Gaze controlled keyboard” is a project where we will control the keyboa
 
 ## Motivation 
 To implement the technology for a better tomorrow is the motivation for this project.
-I came across Opencv and read about it through various blogs on it. Thus the zeal to work on opencv sparked within me and the idea to  create the virtual keyboard which could be controlled by our gaze without using the hands.Such applications are really important for people affected by quadriplegia who completely lost the control of their limbs.
-
-
-
+The virtual keyboard which is be controlled by our gaze without using the hands.Such applications are really important for people affected by quadriplegia who completely lost the control of their limbs.
 
 ## Core-Logic
 This project is built in 2 main parts.
